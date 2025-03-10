@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Brazilian backend developer</p>
+<p align="left">Java backend developer</p>
 
 ###
 
